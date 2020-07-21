@@ -1,0 +1,22 @@
+{
+  "cats": [
+    {
+      img:
+        "https://www.vriendin.nl/content/uploads/2020/01/Ontwerp-zonder-titel-52.png",
+      name: "grumpy 1",
+      weight: 3,
+      awesome: true,
+      terrifying: true,
+      abilities: ["solarbeam", "fury swipes", "bite", "scratch"],
+    },
+    {
+      img:
+        "https://www.vriendin.nl/content/uploads/2020/01/Ontwerp-zonder-titel-52.png",
+      name: "grumpy 2",
+      weight: 4,
+      awesome: true,
+      terrifying: false,
+      abilities: ["solarbeam", "fury swipes", "bite", "scratch"],
+    },
+  ]
+}
